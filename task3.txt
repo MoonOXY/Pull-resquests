@@ -1,10 +1,7 @@
 task3
 
-<<<<<<< HEAD
 modify
 
 modify2
-=======
 we have some conflit in teamwork
 this is modified by alexis
->>>>>>> origin/new
